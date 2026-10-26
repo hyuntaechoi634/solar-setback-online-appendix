@@ -6,7 +6,7 @@
 [온라인 부록 PDF 보기](online-appendix.pdf)  
 [PDF 내려받기](https://raw.githubusercontent.com/hyuntaechoi634/solar-setback-online-appendix/main/online-appendix.pdf)
 
-2026년 10월 26일 수정본의 온라인 부록입니다. 본문과 대조할 수 있도록 부표와 부그림의 번호를 유지하였습니다.
+2026년 10월 26일 수정본의 온라인 부록입니다. 비교정부학보 원고에 사용한 부록 형식으로 조판한 4쪽 PDF입니다. 본문과 대조할 수 있도록 부표와 부그림의 번호를 유지하였습니다.
 
 | 항목 | 내용 |
 | --- | --- |
